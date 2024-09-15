@@ -1,0 +1,1682 @@
+{
+    "productos": [
+        {
+            "nombre": "PTIMILA H GOTAS OFTALMICAS",
+            "cantidad": "15 ML"
+        },
+        {
+            "nombre": "ASPIRINA EFERVESCENTE"
+        },
+        {
+            "nombre": "SULFATIAZOL/PENICILINA POMADA"
+        },
+        {
+            "nombre": "BIO ELECTRO TABS",
+            "cantidad": "C/24"
+        },
+        {
+            "nombre": "NEXT-TABS",
+            "dosis": "500/25/5/4MG",
+            "presentacion": "TAB10"
+        },
+        {
+            "nombre": "ALLIVIAX",
+            "dosis": "550MG",
+            "presentacion": "TABS",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "XL-3 VR",
+            "dosis": "375/50/3 MG",
+            "presentacion": "TAB",
+            "cantidad": "24"
+        },
+        {
+            "nombre": "SUEROX 8IONES",
+            "sabor": "MANZANA",
+            "cantidad": "630ML"
+        },
+        {
+            "nombre": "ALCOHOL DESNATURALIZADO JIQUILPAN",
+            "cantidad": "500ML"
+        },
+        {
+            "nombre": "TERMOMETRO NEUTEKDIG MT201 C/AGUA"
+        },
+        {
+            "nombre": "CALTRON 600 D TABS",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "ACTIKROLL JARABE",
+            "cantidad": "C/250 ML"
+        },
+        {
+            "nombre": "MAQ GTTE PRESTB ULTRA-GRIP S"
+        },
+        {
+            "nombre": "ROSATIL PASTA",
+            "cantidad": "C/30 GR"
+        },
+        {
+            "nombre": "VERMISEN SUSP",
+            "cantidad": "C/20 ML"
+        },
+        {
+            "nombre": "PEPTO BISMOL SUELTO",
+            "presentacion": "C/1 TABS"
+        },
+        {
+            "nombre": "ALKA SELTZER",
+            "presentacion": "C/1"
+        },
+        {
+            "nombre": "BEPANTHEN",
+            "concentracion": "5%",
+            "presentacion": "POM",
+            "cantidad": "100 G"
+        },
+        {
+            "nombre": "ALKA SELTZER TABS",
+            "cantidad": "C/12"
+        },
+        {
+            "nombre": "TABCIN TAB EFERVESCENTE",
+            "cantidad": "C/12"
+        },
+        {
+            "nombre": "TABCIN",
+            "dosis": "500 MG",
+            "presentacion": "EFERVESCENTE",
+            "cantidad": "TAB C/12"
+        },
+        {
+            "nombre": "ASPIRINA JUNIOR",
+            "dosis": "100MG",
+            "presentacion": "TABS",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "ALKA SELTZER BOOST TAB",
+            "presentacion": "EFERV",
+            "cantidad": "10"
+        },
+        {
+            "nombre": "SAL DE UVAS PICOT SUELTO",
+            "cantidad": "5 GRS",
+            "presentacion": "C/1"
+        },
+        {
+            "nombre": "AFRIN AD SPRAY",
+            "cantidad": "20 ML"
+        },
+        {
+            "nombre": "POMADA CAMPANA MED",
+            "cantidad": "19 G"
+        },
+        {
+            "nombre": "POMADA CAMPANA GDE",
+            "cantidad": "35 G"
+        },
+        {
+            "nombre": "TREDA",
+            "dosis": "129/280/30 MG",
+            "presentacion": "TAB",
+            "cantidad": "20"
+        },
+        {
+            "nombre": "ALUMAG SUSPENSION",
+            "cantidad": "C/240 ML"
+        },
+        {
+            "nombre": "PRONTOL (METOPROLOL)",
+            "dosis": "100MG",
+            "presentacion": "20TABS"
+        },
+        {
+            "nombre": "VERMISEN TABS",
+            "cantidad": "C/6"
+        },
+        {
+            "nombre": "F-EXINA TABLETAS",
+            "dosis": "20 MG",
+            "presentacion": "C/20"
+        },
+        {
+            "nombre": "MARZIVAG",
+            "dosis": "500 MG",
+            "presentacion": "TAB",
+            "cantidad": "3 LGEN"
+        },
+        {
+            "nombre": "RIOPAN GEL",
+            "cantidad": "10 ML",
+            "presentacion": "SB 20"
+        },
+        {
+            "nombre": "LECHE-MAGN NORMEX SUSP",
+            "cantidad": "360 ML"
+        },
+        {
+            "nombre": "SOLUCION CS FLEXOVAL",
+            "cantidad": "250ML"
+        },
+        {
+            "nombre": "SUERO ELECTROLIT",
+            "sabor": "COCO",
+            "cantidad": "625 ML"
+        },
+        {
+            "nombre": "PENDIBEN COMP",
+            "dosis": "600000 UI",
+            "presentacion": "FA",
+            "cantidad": "3ML"
+        },
+        {
+            "nombre": "PENDIBEN LA",
+            "dosis": "1,200,000 U",
+            "presentacion": "INY"
+        },
+        {
+            "nombre": "PISACAINA",
+            "dosis": "2%",
+            "presentacion": "INY.FCO.AMP",
+            "cantidad": "50 ML"
+        },
+        {
+            "nombre": "AGRIFEN",
+            "dosis": "500/25/5/4MG",
+            "presentacion": "TAB",
+            "cantidad": "10"
+        },
+        {
+            "nombre": "ELECTROLIT",
+            "sabor": "LIMA-LIMON",
+            "cantidad": "625 ML"
+        },
+        {
+            "nombre": "ELECTROLIT",
+            "sabor": "UVA",
+            "cantidad": "625 ML"
+        },
+        {
+            "nombre": "ELECTROLIT",
+            "sabor": "FRESA-KIWI",
+            "cantidad": "625 ML"
+        },
+        {
+            "nombre": "ELECTROLIT",
+            "sabor": "MORA AZUL",
+            "cantidad": "625 ML"
+        },
+        {
+            "nombre": "SM PANTOPRAZOL",
+            "dosis": "20MG",
+            "presentacion": "TABS",
+            "cantidad": "C/14"
+        },
+        {
+            "nombre": "PENISODINA",
+            "dosis": "400,000U",
+            "presentacion": "C/1FAMP SUI"
+        },
+        {
+            "nombre": "LAXACAPS",
+            "presentacion": "CAPS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "EUCALIPTINE",
+            "presentacion": "AMP",
+            "cantidad": "1 ML C/10"
+        },
+        {
+            "nombre": "NEO-MELUBRINA",
+            "dosis": "500MG",
+            "presentacion": "TABS",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "LACTACYD PROBIO SH FEMINA",
+            "cantidad": "200ML"
+        },
+        {
+            "nombre": "LACTACYD PROBIO SH FRESH",
+            "cantidad": "200ML"
+        },
+        {
+            "nombre": "ADEROGYL C GTS",
+            "cantidad": "10 ML"
+        },
+        {
+            "nombre": "FORTICAL B FORTE",
+            "presentacion": "C/30 TABLETAS"
+        },
+        {
+            "nombre": "FORTICAL",
+            "presentacion": "30TABS"
+        },
+        {
+            "nombre": "AZITROMICINA SERRAL",
+            "presentacion": "SUSP",
+            "cantidad": "15ML"
+        },
+        {
+            "nombre": "APONISTAN V",
+            "presentacion": "TABLETAS",
+            "cantidad": "C/12"
+        },
+        {
+            "nombre": "ESPADIVA",
+            "presentacion": "10TABS"
+        },
+        {
+            "nombre": "CETIRIZINA APOTEX",
+            "presentacion": "TABLETAS",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "PAROXETINA APOTEX",
+            "presentacion": "TABLETAS",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "MUCOVIBROL C SOL GTS",
+            "cantidad": "20ML"
+        },
+        {
+            "nombre": "MYCELVAN",
+            "concentracion": "1%",
+            "presentacion": "SPRAY SOL",
+            "cantidad": "30 ML"
+        },
+        {
+            "nombre": "ASPIRINA PROTECT",
+            "dosis": "100MG",
+            "presentacion": "TAB",
+            "cantidad": "28"
+        },
+        {
+            "nombre": "CANESTEN VAG",
+            "presentacion": "CRA",
+            "cantidad": "20 G"
+        },
+        {
+            "nombre": "CANESTEN-V 3 DIAS",
+            "dosis": "200MG",
+            "presentacion": "OV",
+            "cantidad": "3"
+        },
+        {
+            "nombre": "AMCEF IM",
+            "componente": "CEFTRIAXONA",
+            "dosis": "500MG",
+            "presentacion": "1AMP SOL"
+        },
+        {
+            "nombre": "AMCEF",
+            "dosis": "1 GR",
+            "presentacion": "IM INYECTABLE"
+        },
+        {
+            "nombre": "SOLURAL PEDIATRICO",
+            "sabor": "MANZANA",
+            "cantidad": "300ML SOL"
+        },
+        {
+            "nombre": "SOLURAL PEDIATRICO",
+            "sabor": "FRESA",
+            "cantidad": "300ML SOL"
+        },
+        {
+            "nombre": "AMPICILINA",
+            "dosis": "500MG",
+            "presentacion": "AMSA TABS",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "METFORMINA",
+            "presentacion": "TABLETAS",
+            "dosis": "850 MG",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "HIOSCINA",
+            "presentacion": "SOLUCION INYECTABLE",
+            "cantidad": "C/3"
+        },
+        {
+            "nombre": "KETOROLACO",
+            "dosis": "30MG",
+            "presentacion": "AMSA",
+            "cantidad": "C/3 AMPOLLETA"
+        },
+        {
+            "nombre": "PAROXETINA",
+            "dosis": "20MG",
+            "marca": "CHIPTEN",
+            "presentacion": "10TABS"
+        },
+        {
+            "nombre": "POPRAM",
+            "componente": "PANTOPRAZOL",
+            "dosis": "40 MG",
+            "presentacion": "C/28"
+        },
+        {
+            "nombre": "VALSARTAN",
+            "dosis": "80MG",
+            "presentacion": "C/14 TABLETAS"
+        },
+        {
+            "nombre": "FLUMIL FORTE",
+            "dosis": "600MG",
+            "presentacion": "TAB",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "BUDESONIDA",
+            "concentracion": "0.5MG/ML",
+            "presentacion": "NEBU C/20 ML"
+        },
+        {
+            "nombre": "COMBIGAN",
+            "componente": "BRIMONIDINA+TIMOLOL",
+            "dosis": "0.2+0.5%",
+            "presentacion": "GOTAS",
+            "cantidad": "5 ML"
+        },
+        {
+            "nombre": "RIPPER",
+            "componente": "AMOXICILINA",
+            "dosis": "500 MG",
+            "presentacion": "C/100 TABLETAS"
+        },
+        {
+            "nombre": "RETELON 20",
+            "componente": "LEVOCETIRIZINA",
+            "presentacion": "TABLETAS",
+            "cantidad": "20"
+        },
+        {
+            "nombre": "VALIUM",
+            "dosis": "10MG",
+            "presentacion": "INY",
+            "cantidad": "C/5"
+        },
+        {
+            "nombre": "ENALAPRIL",
+            "dosis": "10MG",
+            "presentacion": "C/30TABS"
+        },
+        {
+            "nombre": "CLORURO DE POTASIO SOLUCION",
+            "concentracion": "10%",
+            "presentacion": "C/250ML"
+        },
+        {
+            "nombre": "TALOFENO SUSPENSION",
+            "cantidad": "120ML"
+        },
+        {
+            "nombre": "MUCOSOLVAN PEDIATRICO",
+            "dosis": "30MG/5ML",
+            "presentacion": "C/120ML"
+        },
+        {
+            "nombre": "BUPRENORFINA",
+            "dosis": "0.2MG",
+            "presentacion": "INY",
+            "cantidad": "C/5 AMP"
+        },
+        {
+            "nombre": "BRONCOLIN JARABE",
+            "cantidad": "125ML"
+        },
+        {
+            "nombre": "GRANEODIN-N",
+            "dosis": "15MG",
+            "presentacion": "PASTILLA",
+            "cantidad": "C/24"
+        },
+        {
+            "nombre": "KETOPROFENO",
+            "dosis": "100MG",
+            "presentacion": "INY"
+        },
+        {
+            "nombre": "AMOXICILINA SUSP",
+            "dosis": "250MG/5ML",
+            "cantidad": "C/90ML"
+        },
+        {
+            "nombre": "DEXKETOPROFENO",
+            "dosis": "25MG",
+            "presentacion": "INY",
+            "cantidad": "C/3 AMP"
+        },
+        {
+            "nombre": "IBUPROFENO",
+            "dosis": "400MG",
+            "presentacion": "TABS",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "PARACETAMOL",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "OMEGA 3-6-9",
+            "presentacion": "CAPS",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "VITAMINA C",
+            "dosis": "1000MG",
+            "presentacion": "TAB",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "LIDOCAINA",
+            "concentracion": "5%",
+            "presentacion": "POMADA",
+            "cantidad": "30 G"
+        },
+        {
+            "nombre": "ACICLOVIR",
+            "dosis": "400MG",
+            "presentacion": "TAB",
+            "cantidad": "C/25"
+        },
+        {
+            "nombre": "NAPROXENO",
+            "dosis": "500MG",
+            "presentacion": "TABS",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "FUROSEMIDA",
+            "dosis": "40MG",
+            "presentacion": "TABS",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "CLINDAMICINA",
+            "dosis": "300MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/16"
+        },
+        {
+            "nombre": "OXICODONA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "CELECOXIB",
+            "dosis": "200MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "VALSARTAN",
+            "dosis": "160MG",
+            "presentacion": "TABS",
+            "cantidad": "C/14"
+        },
+        {
+            "nombre": "DEXAMETASONA",
+            "dosis": "4MG",
+            "presentacion": "INY",
+            "cantidad": "C/5 AMP"
+        },
+        {
+            "nombre": "SERTRALINA",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "GABAPENTINA",
+            "dosis": "300MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/90"
+        },
+        {
+            "nombre": "ATORVASTATINA",
+            "dosis": "20MG",
+            "presentacion": "TABS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LOSARTAN",
+            "dosis": "50MG",
+            "presentacion": "TABS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LEVOTIROXINA",
+            "dosis": "100MCG",
+            "presentacion": "TAB",
+            "cantidad": "C/50"
+        },
+        {
+            "nombre": "SILDENAFIL",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/4"
+        },
+        {
+            "nombre": "RANITIDINA",
+            "dosis": "150MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LEVODROPROPIZINA",
+            "dosis": "60MG",
+            "presentacion": "SUSP",
+            "cantidad": "100ML"
+        },
+        {
+            "nombre": "TERBINAFINA",
+            "dosis": "250MG",
+            "presentacion": "TAB",
+            "cantidad": "C/28"
+        },
+        {
+            "nombre": "OMEPRAZOL",
+            "dosis": "20MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "AZITROMICINA",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/3"
+        },
+        {
+            "nombre": "CLARITROMICINA",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/14"
+        },
+        {
+            "nombre": "VANCOMICINA",
+            "dosis": "500MG",
+            "presentacion": "INY",
+            "cantidad": "C/1"
+        },
+        {
+            "nombre": "DIAZEPAM",
+            "dosis": "10MG",
+            "presentacion": "TABS",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "ALPRAZOLAM",
+            "dosis": "0.5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "METFORMINA",
+            "dosis": "850MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PREGABALINA",
+            "dosis": "150MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/14"
+        },
+        {
+            "nombre": "TRAMADOL",
+            "dosis": "100MG",
+            "presentacion": "INY",
+            "cantidad": "C/3 AMP"
+        },
+        {
+            "nombre": "GLIBENCLAMIDA",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ESCITALOPRAM",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/28"
+        },
+        {
+            "nombre": "QUETIAPINA",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "RIVOTRIL",
+            "dosis": "2MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CLONAZEPAM",
+            "dosis": "2MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CARBAMAZEPINA",
+            "dosis": "200MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LAMOTRIGINA",
+            "dosis": "100MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "TOPIRAMATO",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "RISPERIDONA",
+            "dosis": "2MG",
+            "presentacion": "TAB",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "OLANZAPINA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/28"
+        },
+        {
+            "nombre": "LORAZEPAM",
+            "dosis": "1MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PAROXETINA",
+            "dosis": "20MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "VENLAFAXINA",
+            "dosis": "75MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "AMITRIPTILINA",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/50"
+        },
+        {
+            "nombre": "IMIPRAMINA",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/50"
+        },
+        {
+            "nombre": "FLUOXETINA",
+            "dosis": "20MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ZOLPIDEM",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "LITIO",
+            "dosis": "300MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/100"
+        },
+        {
+            "nombre": "VALPROATO",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "BISOPROLOL",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "NITROGLICERINA",
+            "dosis": "0.4MG",
+            "presentacion": "SPRAY",
+            "cantidad": "C/200 DOSIS"
+        },
+        {
+            "nombre": "ESOMEPRAZOL",
+            "dosis": "40MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ACIDO ACETILSALICILICO",
+            "dosis": "100MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LEVETIRACETAM",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "MONTELUKAST",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "TIOTROPIO",
+            "dosis": "18MCG",
+            "presentacion": "INHALADOR",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "SALBUTAMOL",
+            "dosis": "100MCG",
+            "presentacion": "INHALADOR",
+            "cantidad": "C/200 DOSIS"
+        },
+        {
+            "nombre": "BUDESONIDA",
+            "dosis": "200MCG",
+            "presentacion": "INHALADOR",
+            "cantidad": "C/200 DOSIS"
+        },
+        {
+            "nombre": "FENOFIBRATO",
+            "dosis": "160MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "EZETIMIBA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "TAMSULOSINA",
+            "dosis": "0.4MG",
+            "presentacion": "CAPS",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "SILDENAFILO",
+            "dosis": "100MG",
+            "presentacion": "TAB",
+            "cantidad": "C/4"
+        },
+        {
+            "nombre": "FINASTERIDE",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "TADALAFILO",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/28"
+        },
+        {
+            "nombre": "DEXAMETASONA",
+            "dosis": "4MG",
+            "presentacion": "INY",
+            "cantidad": "C/5 AMP"
+        },
+        {
+            "nombre": "PREDNISONA",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/20"
+        },
+        {
+            "nombre": "MOMETASONA",
+            "dosis": "50MCG",
+            "presentacion": "SPRAY",
+            "cantidad": "C/140 DOSIS"
+        },
+        {
+            "nombre": "FLUTICASONA",
+            "dosis": "250MCG",
+            "presentacion": "INHALADOR",
+            "cantidad": "C/120 DOSIS"
+        },
+        {
+            "nombre": "BUDESONIDA",
+            "dosis": "100MCG",
+            "presentacion": "INHALADOR",
+            "cantidad": "C/120 DOSIS"
+        },
+        {
+            "nombre": "ESPIRONOLACTONA",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "FUROSEMIDA",
+            "dosis": "40MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "HIDROCLOROTIAZIDA",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CLORTALIDONA",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "AMLODIPINO",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CANDESARTAN",
+            "dosis": "16MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "IRBESARTAN",
+            "dosis": "300MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LOSARTAN",
+            "dosis": "100MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "TELMISARTAN",
+            "dosis": "80MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "VALSARTAN",
+            "dosis": "160MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ENALAPRIL",
+            "dosis": "20MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LISINOPRIL",
+            "dosis": "20MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PERINDOPRIL",
+            "dosis": "8MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "RAMIPRIL",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DOXAZOSINA",
+            "dosis": "4MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PROPRANOLOL",
+            "dosis": "40MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ATENOLOL",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CARVEDILOL",
+            "dosis": "25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "METOPROLOL",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "BISOPROLOL",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "NEBIVOLOL",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "VERAPAMILO",
+            "dosis": "80MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DILTIAZEM",
+            "dosis": "90MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CLONIDINA",
+            "dosis": "0.3MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "NITROGLICERINA",
+            "dosis": "5MG",
+            "presentacion": "PARCHES",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ISOSORBIDA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "AMIODARONA",
+            "dosis": "200MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DIGOXINA",
+            "dosis": "0.25MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "IVABRADINA",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ATORVASTATINA",
+            "dosis": "20MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ROSUVASTATINA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PRAVASTATINA",
+            "dosis": "40MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "SIMVASTATINA",
+            "dosis": "20MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "EZETIMIBA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "FENOFIBRATO",
+            "dosis": "160MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "GEMFIBROZILO",
+            "dosis": "600MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LEVOTIROXINA",
+            "dosis": "100MCG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PROPRANOLOL",
+            "dosis": "40MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PREDNISOLONA",
+            "dosis": "5MG/ML",
+            "presentacion": "SOL ORAL",
+            "cantidad": "FRASCO 120ML"
+        },
+        {
+            "nombre": "RANITIDINA",
+            "dosis": "150MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "OMEPRAZOL",
+            "dosis": "20MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ESOMEPRAZOL",
+            "dosis": "40MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PANTOPRAZOL",
+            "dosis": "40MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LANSOPRAZOL",
+            "dosis": "30MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DEXLANSOPRAZOL",
+            "dosis": "60MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "METOCLOPRAMIDA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DOMPERIDONA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ONDASETRON",
+            "dosis": "8MG",
+            "presentacion": "TAB",
+            "cantidad": "C/10"
+        },
+        {
+            "nombre": "LOPERAMIDA",
+            "dosis": "2MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "MESALAZINA",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "SULFASALAZINA",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "URSOFALK",
+            "dosis": "250MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DICLOFENACO",
+            "dosis": "75MG",
+            "presentacion": "INY",
+            "cantidad": "C/5 AMP"
+        },
+        {
+            "nombre": "IBUPROFENO",
+            "dosis": "400MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "NAPROXENO",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "MELOXICAM",
+            "dosis": "15MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PARACETAMOL",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "TRAMADOL",
+            "dosis": "50MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CODEINA",
+            "dosis": "30MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "MORFINA",
+            "dosis": "10MG",
+            "presentacion": "INY",
+            "cantidad": "C/5 AMP"
+        },
+        {
+            "nombre": "METFORMINA",
+            "dosis": "850MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "GLIBENCLAMIDA",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "GLIMEPIRIDA",
+            "dosis": "4MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "SITAGLIPTINA",
+            "dosis": "100MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "LINAGLIPTINA",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "PIOGLITAZONA",
+            "dosis": "30MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "DAPAGLIFLOZINA",
+            "dosis": "10MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "INSULINA",
+            "dosis": "100UI/ML",
+            "presentacion": "FRASCO",
+            "cantidad": "10ML"
+        },
+        {
+            "nombre": "HUMALOG",
+            "dosis": "100UI/ML",
+            "presentacion": "PEN",
+            "cantidad": "3ML"
+        },
+        {
+            "nombre": "LANTUS",
+            "dosis": "100UI/ML",
+            "presentacion": "PEN",
+            "cantidad": "3ML"
+        },
+        {
+            "nombre": "NOVOLOG",
+            "dosis": "100UI/ML",
+            "presentacion": "PEN",
+            "cantidad": "3ML"
+        },
+        {
+            "nombre": "SYMLIN",
+            "dosis": "100MCG/ML",
+            "presentacion": "PEN",
+            "cantidad": "3ML"
+        },
+        {
+            "nombre": "GLUCAGON",
+            "dosis": "1MG",
+            "presentacion": "KIT",
+            "cantidad": "1 KIT"
+        },
+        {
+            "nombre": "GLUCOSAMINA",
+            "dosis": "500MG",
+            "presentacion": "TAB",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "CONDROITINA",
+            "dosis": "400MG",
+            "presentacion": "TAB",
+            "cantidad": "C/60"
+        },
+        {
+            "nombre": "OMEGA-3",
+            "dosis": "1000MG",
+            "presentacion": "CAP",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "VITAMINA D",
+            "dosis": "2000UI",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "MULTIVITAMINICO",
+            "dosis": "1 TAB",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "CALCIO",
+            "dosis": "600MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "MAGNESIO",
+            "dosis": "400MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "ZINC",
+            "dosis": "50MG",
+            "presentacion": "TAB",
+            "cantidad": "C/30"
+        },
+        {
+            "nombre": "INFLUVAC",
+            "dosis": "0.5ML",
+            "presentacion": "AMPOLLA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "JERINGA 10ML",
+            "dosis": "10ML",
+            "presentacion": "JERINGA",
+            "cantidad": "1 PIEZA"
+        },
+        {
+            "nombre": "JERINGA 20ML",
+            "dosis": "20ML",
+            "presentacion": "JERINGA",
+            "cantidad": "1 PIEZA"
+        },
+        {
+            "nombre": "JERINGA 50ML",
+            "dosis": "50ML",
+            "presentacion": "JERINGA",
+            "cantidad": "1 PIEZA"
+        },
+        {
+            "nombre": "ALCOHOL ETILICO 96°",
+            "dosis": "500ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ALCOHOL DESNATURALIZADO 70°",
+            "dosis": "500ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "DESINFECTANTE",
+            "dosis": "500ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "GUANTES DE LATEX",
+            "dosis": "TALLA MEDIANA",
+            "presentacion": "CAJA",
+            "cantidad": "1 CAJA"
+        },
+        {
+            "nombre": "GUANTES DE LATEX",
+            "dosis": "TALLA GRANDE",
+            "presentacion": "CAJA",
+            "cantidad": "1 CAJA"
+        },
+        {
+            "nombre": "TERMOMETRO DIGITAL",
+            "dosis": "",
+            "presentacion": "TERMOMETRO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "BANDAS ELASTICAS",
+            "dosis": "",
+            "presentacion": "CAJA",
+            "cantidad": "1 CAJA"
+        },
+        {
+            "nombre": "GASA ESTERIL",
+            "dosis": "10X10CM",
+            "presentacion": "PAQUETE",
+            "cantidad": "1 PAQUETE"
+        },
+        {
+            "nombre": "GASA ESTERIL",
+            "dosis": "7.5X5CM",
+            "presentacion": "PAQUETE",
+            "cantidad": "1 PAQUETE"
+        },
+        {
+            "nombre": "ALGODON ABSORBENTE",
+            "dosis": "100 GR",
+            "presentacion": "BOLSA",
+            "cantidad": "1 BOLSA"
+        },
+        {
+            "nombre": "VASELINA PARA BEBE",
+            "dosis": "60G",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "AGUA OXIGENADA",
+            "dosis": "56 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "VIOLETA GENCIANA",
+            "dosis": "40ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ACETONA",
+            "dosis": "60 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "GLICERINA",
+            "dosis": "60 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "VENDA ELASTICA",
+            "dosis": "7 * 5",
+            "presentacion": "ROLL",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "VENDA ELASTICA",
+            "dosis": "10 CM",
+            "presentacion": "ROLL",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "VENDA ELASTICA",
+            "dosis": "15 * 15",
+            "presentacion": "ROLL",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "VENDA ELASTICA",
+            "dosis": "30 CM",
+            "presentacion": "ROLL",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "SOL ANTISEP",
+            "dosis": "360 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ACEITE DE OLIVO",
+            "dosis": "60 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ACEITE DE ALMENDRAS",
+            "dosis": "60 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ALOE VERA EN GEL",
+            "dosis": "120 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "GEL HIDRATANTE CON PEPINO",
+            "dosis": "120 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "APLIC KIUTS AZUL",
+            "dosis": "100",
+            "presentacion": "PAQUETE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "APLICADOR ALGODON KIUTS",
+            "dosis": "50",
+            "presentacion": "TARRO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ALCOHOL ETILICO DESNAT 70°",
+            "dosis": "120ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ALCOHOL DESNAT 70°",
+            "dosis": "480 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "MERTODOL ROJO",
+            "dosis": "40 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "MERTODOL BCO",
+            "dosis": "40 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "AGUA PURIFICADA KIRKLAND",
+            "dosis": "1 LT",
+            "presentacion": "BOTELLA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "AGUA PURIFICADA KIRKLAND",
+            "dosis": "500 ML",
+            "presentacion": "BOTELLA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "GATORLYTE DE COCO",
+            "dosis": "591 ML",
+            "presentacion": "BOTELLA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "GATORLYTE DE UVA",
+            "dosis": "591 ML",
+            "presentacion": "BOTELLA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "AGUA DE COCO/ ACIDO HIALURONICO",
+            "dosis": "",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "SOLURAL UVA",
+            "dosis": "500ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "SOLURAL PEDIATRICO UVA",
+            "dosis": "500 ML",
+            "presentacion": "FRASCO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "SULFADIAZINA DE PLATA",
+            "dosis": "",
+            "presentacion": "TUBO",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "COLGATE TOTAL 12 CLEAN MINT",
+            "dosis": "100 ML",
+            "presentacion": "TUBE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "JABON DOVE HIDRATACION FRESCA",
+            "dosis": "90 G",
+            "presentacion": "BARRA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "DESOD REXONA CLINICAL INTENSE FRESH",
+            "dosis": "58 G",
+            "presentacion": "DESODORANTE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "DESOD REXONA CLINICAL SPORT STRENGTH",
+            "dosis": "",
+            "presentacion": "DESODORANTE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "DESOD REXONA CLINICAL ESTRA DRY",
+            "dosis": "58 G",
+            "presentacion": "DESODORANTE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "JABON DOVE ORIGINAL",
+            "dosis": "135 G",
+            "presentacion": "BARRA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "ANARA",
+            "dosis": "5MG",
+            "presentacion": "TAB",
+            "cantidad": "C/1"
+        },
+        {
+            "nombre": "SELTZ COLAGENO SUPLEMENTO ALIMENTICIO",
+            "dosis": "20 TABS",
+            "presentacion": "EFERVESCENTE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "SELTZ VITAMINA C SUPLEMENTO ALIMENTICIO",
+            "dosis": "20 TABS",
+            "presentacion": "EFERVESCENTE",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "GATORADE NARANJA",
+            "dosis": "500ML",
+            "presentacion": "BOTELLA",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "PEPSI",
+            "dosis": "1.75L",
+            "presentacion": "BOTELLA",
+            "cantidad": "1"
+        }
+    ]
+}

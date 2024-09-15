@@ -1,6 +1,5 @@
-import { join } from 'path'
 import { createBot, createProvider, createFlow,
-        addKeyword, utils, addAnswer } from '@builderbot/bot'
+        addKeyword } from '@builderbot/bot'
 import { MemoryDB as Database } from '@builderbot/bot'
 import { BaileysProvider as Provider } from '@builderbot/provider-baileys'
 import { validacionValoresPredeterminados,
@@ -10,6 +9,8 @@ import { validacionValoresPredeterminados,
         import { fileURLToPath } from 'url';
         import path from 'path';
         import fs from 'fs';
+
+        import { buscarProducto } from './busquedaProducto.js'
 
 
 const PORT = process.env.PORT ?? 3008
@@ -43,6 +44,9 @@ function obtenerRutas(dir) {
 
 
 const rutasDeArchivos = obtenerRutas(directoryPath);
+
+
+
 ////////////////////////////////////////////////////////////////
 ////////////////////////////////
 ////////////////////////////////////////////////////////////////
@@ -65,11 +69,17 @@ const welcomeFlow = addKeyword(['hi', 'hello', 'hola'])
 
                 if(await validacionValoresPredeterminadosMenu(ctx)){
                     
+                    
+
                     switch(ctx.body){
                         case '1':
+                        case 'Medicamentos':
                             return gotoFlow(flujoMedicamentos);
                             
                         case '2':
+                        case 'Ofertas':
+                        case 'Promociones':
+                        case 'Ofertas y promociones':
                             return gotoFlow(flujoOfertas);
                             
                         case '3':
@@ -91,14 +101,36 @@ const welcomeFlow = addKeyword(['hi', 'hello', 'hola'])
 
 
     const flujoMedicamentos = addKeyword(['medicamentos'])
-    .addAnswer('merdicamentos')
+    .addAnswer('Que medicamento buscas?' 
+        ,{capture: true}
+        ,async (ctx, {gotoFlow,flowDynamic }) => {
+            const productoBuscar = await buscarProducto(ctx.body);
+
+            if (productoBuscar){
+                await flowDynamic([{
+                    body: "Si contamos con el producto que está buscando",
+                     // Usa la URL aquí
+                    
+                }]);
+                return gotoFlow(flujoDespedidaProducto)
+            }else{
+                await flowDynamic([{
+                    body: "De momento no contamos con el producto que está buscando",
+                     // Usa la URL aquí
+                    
+                }]);
+                return gotoFlow(flujoDespedidaProducto)
+            }
+
+        }
+    )
 
 
     const flujoOfertas = 
     addKeyword(['ofertas'])
-    .addAnswer('ofertas')
+    .addAnswer('Estas son algunas de nuestras ofertas...')
     .addAction(
-        async (_, {provider,flowDynamic}) => {
+        async (_, {flowDynamic,gotoFlow}) => {
             for (let index = 0; index < rutasDeArchivos.length; index++) {
                 // Construye la ruta absoluta de la imagen
                 const rutaAbsoluta = path.resolve(__dirname, './images/ofertas/' + rutasDeArchivos[index]);
@@ -112,6 +144,7 @@ const welcomeFlow = addKeyword(['hi', 'hello', 'hola'])
                     
                 }]);
             }
+            return gotoFlow(flujoDespedida);
         }
     );
 
@@ -138,6 +171,8 @@ const welcomeFlow = addKeyword(['hi', 'hello', 'hola'])
     }
 )
 
+ const flujocontactoAgente = addKeyword(['persona'])
+    .addAnswer(['En un momento un agernte se comunicara contigo...'])
 
     const flujoHorario = addKeyword(['horario'])
     .addAnswer([
@@ -156,6 +191,17 @@ const welcomeFlow = addKeyword(['hi', 'hello', 'hola'])
         async (ctx, { gotoFlow}) => {
             if(await validacionValoresPredeterminados(ctx)){
                 return gotoFlow(welcomeFlow)
+            } else{
+                return gotoFlow(flujoGracias)
+            }
+        }
+    )
+    const flujoDespedidaProducto = addKeyword(['despedida'])
+    .addAnswer(["¿Te puedo ayudar en algo más?", "1:Si", "2:NO"],
+        {capture:true},
+        async (ctx, { gotoFlow}) => {
+            if(await validacionValoresPredeterminados(ctx)){
+                return gotoFlow(flujocontactoAgente)
             } else{
                 return gotoFlow(flujoGracias)
             }
@@ -194,7 +240,9 @@ const main = async () => {
         flujoOfertas,
         flujoMedicamentos,
         flujoDespedida,
-        flujoHorario
+        flujoHorario,
+        flujocontactoAgente,
+        flujoDespedidaProducto
     ])
     
     const adapterProvider = createProvider(Provider)
